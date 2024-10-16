@@ -1,0 +1,36 @@
+ <aiml version="1.0.1" encoding="UTF-8"> 
+    <!-- basic_chat.aiml --> 
+    <category> 
+        <pattern>HELLO</pattern> 
+        <template>Hello, User!</template> 
+    </category> 
+    <category> 
+        <pattern>SUNDAY</pattern> 
+        <template>Sunday is the day of the week before Monday and following 
+Saturday, often observed as a day of rest and religious worship.</template> 
+    </category> 
+    <category> 
+        <pattern>MONDAY</pattern> 
+        <template>Monday is the day that starts after Sunday.</template> 
+    </category> 
+    <category> 
+        <pattern>TUESDAY</pattern> 
+        <template>Tuesday is the day that starts after Monday.</template> 
+    </category> 
+    <category> 
+        <pattern>WEDNESDAY</pattern> 
+        <template>Wednesday is the day that starts after Tuesday.</template> 
+    </category> 
+    <category> 
+        <pattern>THURSDAY</pattern> 
+        <template>Thursday is the day that starts after Wednesday.</template> 
+    </category> 
+    <category> 
+        <pattern>FRIDAY</pattern> 
+        <template>Friday is the day that starts after Thursday.</template> 
+    </category> 
+    <category> 
+        <pattern>SATURDAY</pattern> 
+        <template>Saturday is the day that starts after Friday.</template> 
+    </category> 
+</aiml>
